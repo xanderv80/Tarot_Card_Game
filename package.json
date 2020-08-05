@@ -1,7 +1,7 @@
 {
   "name": "tarot-card-game",
   "version": "1.0.0",
-  "description": "Tarot Card Game",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
